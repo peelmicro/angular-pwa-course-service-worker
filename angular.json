@@ -21,7 +21,6 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/sw-register.js",
               "src/sw.js",
               "src/offline.html"
             ],
